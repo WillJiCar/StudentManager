@@ -1,0 +1,46 @@
+
+----- Team 1 ----- 	Average Grade: 91
+Jake Leigh 	Leader 	Grade: 90 	ID: 23592346
+Lyndsay Porter 	Programmer 	Grade: 99 	ID: 67879054
+Emily Riley 	Writer 	Grade: 87 	ID: 29385472
+Michael Roberts 	Writer 	Grade: 91 	ID: 23512334
+
+----- Team 2 ----- 	Average Grade: 84
+Bruce Willis 	Leader 	Grade: 86 	ID: 23590313
+Tom Molloy 	Programmer 	Grade: 91 	ID: 29384859
+Matthew Pickup 	Writer 	Grade: 79 	ID: 29483728
+Glenn Mcdavid 	Writer 	Grade: 81 	ID: 23786790
+
+----- Team 3 ----- 	Average Grade: 76
+Luke Hilditch 	Leader 	Grade: 79 	ID: 23727764
+John Riley 	Programmer 	Grade: 82 	ID: 28573873
+Charlotte Mckay 	Writer 	Grade: 77 	ID: 78674534
+Fez Mohammed 	Writer 	Grade: 66 	ID: 23583234
+
+----- Team 4 ----- 	Average Grade: 71
+Callum Bentley 	Leader 	Grade: 73 	ID: 23642394
+Paul Molleneux 	Programmer 	Grade: 82 	ID: 20394857
+Tim Roth 	Writer 	Grade: 66 	ID: 23552094
+William Carpenter Leader 	Grade: 72 	ID: 23590343 -- Moved to Group 4 from 5
+
+----- Team 5 ----- 	Average Grade: 68
+Kurt Gallagher 	Writer 	Grade: 66 	ID: 78560921 -- Moved to Group 5 from 4
+Ben Molloy 	Programmer 	Grade: 72 	ID: 29393920
+Hellen Johnson 	Writer 	Grade: 65 	ID: 23534889
+Jeff Comper 	Writer 	Grade: 63 	ID: 93871712
+
+----- Team 6 ----- 	Average Grade: 50
+Gavin O'neill 	Leader 	Grade: 60 	ID: 67989054
+Gavin Moley 	Programmer 	Grade: 55 	ID: 23593464 -- Unhappy with group, requested change
+Ashleigh Price 	Writer 	Grade: 55 	ID: 81920129
+Jack Watson 	Writer 	Grade: 31 	ID: 29438473
+
+----- Team 7 ----- 	Average Grade: 49
+Martin Keane 	Leader 	Grade: 51 	ID: 78657698
+Lucy Free 	Programmer 	Grade: 50 	ID: 23564723
+Grace Smith 	Writer 	Grade: 47 	ID: 23596543 -- Not Present
+
+----- Team 8 ----- 	Average Grade: 42
+Cam Osbourne 	Leader 	Grade: 40 	ID: 28385737
+Niamn Pearce 	Programmer 	Grade: 40 	ID: 91827364
+Josh Mack 	Writer 	Grade: 47 	ID: 28548773
